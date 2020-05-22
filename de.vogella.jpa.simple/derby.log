@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 07 17:19:43 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0171-5539-caa7-00000650d600 
+on database directory /Users/AnneDrottning/Codez/Eclipse/DAT107/database with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4f8e5cde 
+Loaded from file:/Users/AnneDrottning/Desktop/Codez/Eclipse/DAT107/de.vogella.jpa.simple/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.4+11
+user.dir=/Users/AnneDrottning/Desktop/Codez/Eclipse/DAT107/de.vogella.jpa.simple
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
